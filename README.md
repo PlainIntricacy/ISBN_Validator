@@ -1,7 +1,6 @@
 # ISBN_Validator
 
 Java ISBN Code Validator
-
 ==
 
 Simple Java program that checks a given code for ISBN format compliance
